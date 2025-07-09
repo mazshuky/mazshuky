@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 ### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
+## Lang
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+
  
