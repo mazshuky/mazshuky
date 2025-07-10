@@ -1,5 +1,3 @@
-[![Mazshuky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazshuky&show_icons=true&theme=transparent)](https://github.com/mazshuky)
-
 ### Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
